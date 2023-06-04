@@ -1,2 +1,2 @@
-# first-html
-meu primeiro código em HTML
+# First HTML 
+This is my first HTML code;
